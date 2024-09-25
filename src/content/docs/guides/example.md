@@ -1,11 +1,10 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: ยินดีต้อนรับสู่ ETF Investing Wiki
+description: ยินดีต้อนรับสู่ ETF Investing Wiki
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+![What is an ETF and how do they work?](https://cdn.prod.website-files.com/62547917cb5599e815e4d83b/62547917cb55990e6fe4de02_How%20do%20ETFs%20work_%20-%20Freetrade%20(2).jpg)
 
-## Further reading
+สำรวจโลกของกองทุนรวมอีทีเอฟ (Exchange-Traded Funds: ETFs) และเรียนรู้วิธีการตัดสินใจลงทุนอย่างชาญฉลาด
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+ETFs เป็นตัวเลือกการลงทุนที่ได้รับความนิยมสำหรับทั้งนักลงทุนมือใหม่และผู้มีประสบการณ์ เรียนรู้เกี่ยวกับ ETFs ประเภทต่างๆ กลยุทธ์การลงทุน และอื่นๆ อีกมากมาย
