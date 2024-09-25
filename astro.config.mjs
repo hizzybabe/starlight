@@ -17,6 +17,8 @@ export default defineConfig({
 						{ label: 'Example Guide', slug: 'guides/example' },
 						{ label: 'U.S. Dividend Investing Handbook', slug: 'guides/div-etf-101-reddit' },
 						{ label: 'ประเภทของสินทรัพย์และการลงทุน', slug: 'guides/asset-types' },
+						{ label: 'ลงทุน U.S. ETF ผ่าน Dime!', slug: 'guides/dime' },
+						{ label: 'ลงทุน U.S. ETF ผ่าน InnovestX', slug: 'guides/innovestx' },
 					],
 				},
 				{
