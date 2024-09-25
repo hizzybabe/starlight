@@ -7,7 +7,7 @@ export default defineConfig({
 		starlight({
 			title: 'ETF Wiki',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/hizzybabe/starlight',
 			},
 			sidebar: [
 				{
