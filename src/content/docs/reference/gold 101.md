@@ -3,8 +3,4 @@ title: Gold 101
 description: เริ่มต้นลงทุน 'ทองคำ'
 ---
 
-Of all the precious metals, gold is the most popular as an investment. Investors generally buy gold as a way of diversifying risk, especially through the use of futures contracts and derivatives. The gold market is subject to speculation and volatility as are other markets. Compared to other precious metals used for investment, gold has been the most effective safe haven across a number of countries.
-
-## Further reading
-
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+จากโลหะมีค่าทั้งหมด ทองคำเป็นที่นิยมมากที่สุดในการลงทุน นักลงทุนมักซื้อทองคำเพื่อเป็นวิธีกระจายความเสี่ยง โดยเฉพาะอย่างยิ่งผ่านการใช้สัญญาซื้อขายล่วงหน้าและตราสารอนุพันธ์ ตลาดทองคำมีความผันผวนและการเก็งกำไรเช่นเดียวกับตลาดอื่นๆ เมื่อเทียบกับโลหะมีค่าอื่นๆ ที่ใช้ในการลงทุน ทองคำได้พิสูจน์แล้วว่าเป็นสินทรัพย์ปลอดภัยที่มีประสิทธิภาพมากที่สุดในหลายประเทศ

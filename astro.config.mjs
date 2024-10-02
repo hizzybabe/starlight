@@ -11,7 +11,7 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'ETF',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'ETF 101 to Pro Wiki', slug: 'guides/example' },
@@ -23,7 +23,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
+					label: 'Gold and Bitcoin',
 					autogenerate: { directory: 'reference' },
 				},
 			],

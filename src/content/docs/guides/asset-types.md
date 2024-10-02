@@ -36,7 +36,7 @@ _*เงินปันผล (Dividends)*_
 
 ## พันธบัตร (bonds)
 
-![bonds](https://www.principal.com/sites/resources/files/migrated-images/bond%2520explained%25402x-min_bynder.png)
+![bonds](https://content.schwab.com/media/video/brand-journalism/investing-basics-bonds/investing-basics-bonds.jpg)
 
 เมื่อคุณซื้อพันธบัตร คุณกำลังให้กู้ยืมเงินกับหน่วยงานหนึ่ง โดยทั่วไปแล้วนี่คือธุรกิจหรือหน่วยงานภาครัฐ ส่วนบริษัทก็สามารถออกพันธบัตรบริษัท
 
