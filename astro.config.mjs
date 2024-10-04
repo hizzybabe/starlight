@@ -15,11 +15,11 @@ export default defineConfig({
 					items: [
 						{ slug: 'guides/example' },
 						{ slug: 'guides/asset-types' },
-						{ slug: 'whats-etf-lemon8' },
-						{ slug: 'div-etf-101-reddit' },
-						{ slug: 'div-etf-101-reddit-lite' },
-						{ slug: 'dime' },
-						{ slug: 'innovestx' },
+						{ slug: 'guides/whats-etf-lemon8' },
+						{ slug: 'guides/div-etf-101-reddit' },
+						{ slug: 'guides/div-etf-101-reddit-lite' },
+						{ slug: 'guides/dime' },
+						{ slug: 'guides/innovestx' },
 					  ],
 					},
 				{
