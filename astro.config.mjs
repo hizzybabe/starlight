@@ -12,10 +12,8 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'ETF',
-
-						autogenerate: { directory: 'guides' },
-
-				},
+					items: items: ['example', 'asset-types', 'whats-etf-lemon8', 'div-etf-101-reddit', 'div-etf-101-reddit-lite', 'dime', 'innovestx'],
+					},
 				{
 					label: 'Gold and Bitcoin',
 					autogenerate: { directory: 'reference' },
