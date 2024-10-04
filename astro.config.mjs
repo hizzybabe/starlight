@@ -12,10 +12,9 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'ETF',
-					items: [
-						// Each item here is one entry in the navigation menu.
+
 						autogenerate: { directory: 'guides' },
-					],
+
 				},
 				{
 					label: 'Gold and Bitcoin',
