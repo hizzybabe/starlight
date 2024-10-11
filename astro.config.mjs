@@ -20,6 +20,7 @@ export default defineConfig({
             { slug: 'guides/div-etf-101-reddit-lite' },
             { slug: 'guides/dime' },
             { slug: 'guides/innovestx' },
+            { slug: 'guides/lazy-port' },
           ],
         },
         {
