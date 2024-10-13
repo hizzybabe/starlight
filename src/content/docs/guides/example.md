@@ -3,6 +3,9 @@ title: ยินดีต้อนรับสู่ ETF Investing Wiki
 description: ยินดีต้อนรับสู่ ETF Investing Wiki
 ---
 
+## Website นี้ ยังอยู่ในขั้นตอนการพัฒนา v0.1 ระบบและข้อมูลยังไม่ครบสมบูรณ์ ขออภัยในความไม่สะดวก
+### หากท่านเป็นนักลงทุนที่มี passion ต้องการสร้างเนื้อหาแบ่งปันผู้อื่น สามารถติดต่ออาสาเข้ามาได้ที่ facebook page: Evolve Us ขอบคุณครับ
+
 ![What is an ETF and how do they work?](https://cdn.prod.website-files.com/62547917cb5599e815e4d83b/62547917cb55990e6fe4de02_How%20do%20ETFs%20work_%20-%20Freetrade%20(2).jpg)
 
 สำรวจโลกของกองทุนรวมอีทีเอฟ (Exchange-Traded Funds: ETFs) และเรียนรู้วิธีการตัดสินใจลงทุนอย่างชาญฉลาด
