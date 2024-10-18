@@ -1,11 +1,17 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
   integrations: [
+    
     starlight({
       title: 'ETF Wiki',
+      customCss: [
+        // Relative path to your custom CSS file
+        './src/styles/custom.css',
+      ],
       social: {
         github: 'https://github.com/hizzybabe/starlight',
       },
@@ -29,6 +35,7 @@ export default defineConfig({
         },
       ],
     }),
+    [tailwind()],
   ],
   vite: {
     resolve: {
